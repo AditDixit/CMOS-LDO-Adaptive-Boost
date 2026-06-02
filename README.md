@@ -185,5 +185,5 @@ Building this from scratch at transistor level demonstrates:
 
 ## Author
 
-**Dixit** — B.Tech Electronics & Communication Engineering  
+**Aditya Dixit** — B.Tech Electronics & Communication Engineering  
 Simulated in LTspice 26.x using Generic SPICE Level-1 MOSFET Models — 2025
