@@ -1,0 +1,12 @@
+# LTspice output
+*.raw
+*.log
+*.net
+*.fail
+*.op.raw
+*.plt
+
+# Editor / backup files
+*.bak
+*~
+.DS_Store
